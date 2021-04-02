@@ -4,3 +4,8 @@
 
 * The goal of this project is to create interactive Citi Bike dashboards with Tableau
 * Data was prepared using Python (Pandas)
+
+## Technologies Used
+
+* Python (Pandas)
+* Tableau
