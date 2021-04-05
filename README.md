@@ -3,12 +3,16 @@
 ## Project Summary
 
 * The goal of this project is to create interactive Citi Bike dashboards with Tableau
+* The project focuses on demographic data (age and gender) and analyzes customer groups (short vs long term)
 * Data was prepared using Python (Pandas)
 
 ## Technologies Used
 
 * Python (Pandas)
 * Tableau
+
+## Tableau Link
+https://public.tableau.com/profile/rachel.chan7842#!/vizhome/CitibikeAnalysis_16135376312980/AgeDashboard
 
 ## Data Source
 * https://www.citibikenyc.com/system-data
@@ -18,3 +22,7 @@
 * In order to calculate the user's age at the time, each birth year was subtracted from 2020.
 * The data was imported to Tableau, where the visualizations, dashboards, and story were created.
   * In order to analyze user ages, four groups were made using Tableau.
+
+## Visualizations
+![Age Dashboard](Images/Age_visualization.png)
+![Gender Dashboard](Images/Gender_visualization.png)
