@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-* The goal of this project is to create interactive Citi Bike dashboards with Tableau
+* The goal of this project is to create interactive Citi Bike story/dashboards with Tableau
 * The project focuses on demographic data (age and gender) and analyzes customer groups (short vs long term)
 * Data was prepared using Python (Pandas)
 
@@ -22,6 +22,13 @@ https://public.tableau.com/profile/rachel.chan7842#!/vizhome/CitibikeAnalysis_16
 * In order to calculate the user's age at the time, each birth year was subtracted from 2020.
 * The data was imported to Tableau, where the visualizations, dashboards, and story were created.
   * In order to analyze user ages, four groups were made using Tableau.
+
+## Analyses
+* Age
+  * All age groups had a larger long-term customer ("Subscriber") representation. However, the "18 and Under" had a significantly larger representation of short-term customers, making up 32% of the age group.
+  * The "Adults I" group, which represents the 19-44 age range, was the largest age group for both "Customers" and "Subscribers".
+* Gender
+  * Males made up the majority of both the "Customer" and "Subscriber" groups.
 
 ## Visualizations
 ![Age Dashboard](Images/Age_visualization.png)
